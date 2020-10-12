@@ -1,7 +1,6 @@
-## Birth of Jordans
+#  Sneaker Culture
 ![The first Jordans created in 1985](https://sneakerbardetroit.com/wp-content/uploads/2019/04/Air-Jordan-1-Banned-Bred-1985-Release-Date.png)
-
-You can use the [editor on GitHub](https://github.com/dhilanamin/Streethype/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### The Birth of Sneaker Culture
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
