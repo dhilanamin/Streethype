@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dhil's Sneakers
 
 You can use the [editor on GitHub](https://github.com/dhilanamin/Streethype/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
