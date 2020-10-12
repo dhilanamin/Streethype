@@ -1,5 +1,5 @@
 ## Birth of Jordans
-![The first Jordans created in 1985](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsneakerbardetroit.com%2Fair-jordan-1-high-bred-banned-555088-062-release-date%2F&psig=AOvVaw3VuaZdqDxMtRIpSeS2XDyu&ust=1602586881717000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDe0b_zruwCFQAAAAAdAAAAABAE)
+![The first Jordans created in 1985](https://sneakerbardetroit.com/wp-content/uploads/2019/04/Air-Jordan-1-Banned-Bred-1985-Release-Date.png)
 
 You can use the [editor on GitHub](https://github.com/dhilanamin/Streethype/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
