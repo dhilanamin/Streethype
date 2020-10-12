@@ -1,7 +1,7 @@
 #  Sneaker Culture
 ![The first Jordans created in 1985](https://sneakerbardetroit.com/wp-content/uploads/2019/04/Air-Jordan-1-Banned-Bred-1985-Release-Date.png)
 ### The Birth of Sneaker Culture
-
+Sneaker culture started with basketball shoes taking over. With the popularity of Michael Jordan in the 1980s, the basketball star released his own shoe, which was made available to the public. (Pictured above) 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
